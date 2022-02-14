@@ -1,4 +1,4 @@
-# soc1
+# ipC
 
 miscellaneous Verilog sources collected for flow-testing purposes.   Please go to
 the original repositories here for anything useful:
